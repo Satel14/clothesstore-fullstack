@@ -1,0 +1,31 @@
+{
+    "menu": {
+        "home": "Home",
+        "products": "Products",
+        "faq" : "FAQ",
+        "signup" : "Sign Up"
+    },
+    "footer": {
+        "text1" : "Using site..",
+        "developed" : "Developed by Satel for the community"
+    },
+    "cookie": {
+        "text" : "We use cookies on our website to save searched clothes history, and for page Favorites. By clicking 'Accept', you consent to the use All the cookies. ",
+        "accept": "Accept"
+    },
+    "cart" : {
+        "shippingaddress" : "Адрес доставки",
+        "yourshoppingcart" : "Your Shopping Cart",
+        "subtotal" : "Subtotal",
+        "paymentmethod" : "Payment method",
+        "tyforpurchase" : "Thank you for your purchase!",
+        "backtohome" : "Back to home",
+        "backtocart" : "Back To Cart",
+        "next" : "Next",
+        "pay" : "Pay",
+        "ordersummary" : "Order summary",
+        "remove" : "Remove",
+        "emptycart" : "EMPTY CART",
+        "checkout" : "Checkout"
+    }
+}

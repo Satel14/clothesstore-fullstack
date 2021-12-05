@@ -1,0 +1,31 @@
+{
+    "menu": {
+        "home": "Головна",
+        "products": "Товари",
+        "faq" : "FAQ",
+        "signup" : "Зареєструйтесь"
+    },
+    "footer": {
+        "text1" : "Using site..",
+        "developed" : "Developed by Satel for the community"
+    },
+    "cookie": {
+        "text" : "Ми використовуємо файли cookie на нашому веб-сайті для збереження історії пошуку одягу і улюблених сторінок. Натискаючи «Прийняти», ви даєте згоду на використання всіх файлів cookie.",
+        "accept": "Приняти"
+    },
+    "cart" : {
+        "shippingaddress" : "Shipping address",
+        "yourshoppingcart" : "Ваші товари",
+        "subtotal" : "Загальна вартість",
+        "paymentmethod" : "Метод оплати",
+        "tyforpurchase" : "Дякуємо за покупку!",
+        "backtohome" : "Повернутися",
+        "backtocart" : "Повернутися до корзини",
+        "next" : "Далі",
+        "pay" : "До оплати",
+        "ordersummary" : "Підсумок замовлення",
+        "remove" : "Видалити",
+        "emptycart" : "Очистити корзину",
+        "checkout" : "Перевірити"
+    }
+}

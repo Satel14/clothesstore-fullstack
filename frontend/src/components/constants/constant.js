@@ -1,0 +1,1 @@
+export const NOTE_EDIT = 'NOTE_EDIT'
